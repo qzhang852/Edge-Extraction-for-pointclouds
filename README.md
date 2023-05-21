@@ -9,8 +9,7 @@
 
 ## Background
 
-The repository is for MDT-Expleo semester project in TU-Berlin
-
+The repository is for my semester project for pointclouds edge extraction
 ## Install
 
 
